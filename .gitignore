@@ -1,5 +1,4 @@
 node_modules
-app-ui/node_modules
 # Logs
 logs
 *.log
